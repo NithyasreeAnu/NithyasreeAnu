@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! 👋
+
+![Nithya](https://github.com/user-attachments/assets/81eda68f-87de-469f-9fe8-6e0751fb5f43)
+
 
 <!--
 **NithyasreeAnu/NithyasreeAnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
